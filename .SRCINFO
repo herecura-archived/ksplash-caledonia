@@ -1,0 +1,13 @@
+pkgbase = ksplash-caledonia
+	pkgdesc = Simple and lightweight splash screen for KDE
+	pkgver = 1.0
+	pkgrel = 1
+	url = http://sourceforge.net/projects/caledonia/
+	arch = any
+	license = CCPL
+	depends = kdebase-workspace
+	source = ksplash-caledonia-1.0.tar.gz::http://downloads.sourceforge.net/project/caledonia/Caledonia%20KSplash/Caledonia-KSplash.tar.gz
+	sha256sums = 435084ec25378d0506c40921a4af79828ea059b2dda0baa2cf0f1f53f81917c6
+
+pkgname = ksplash-caledonia
+
