@@ -1,6 +1,6 @@
 pkgname=ksplash-caledonia
 pkgver=1.3
-pkgrel=1
+pkgrel=2
 pkgdesc="Simple and lightweight splash screen for KDE"
 arch=('any')
 url='http://sourceforge.net/projects/caledonia/'
